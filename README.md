@@ -1,16 +1,15 @@
-# chitfundmate
+# Chit Fund Mate
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+Chit Fund Mate is a mobile application developed using Flutter for .hack 2023 hackathon, where it was awarded the Best Software Project. This app aims to streamline and enhance the experience of managing chit funds, making it convenient for users to participate, track their investments, and stay updated on chit fund activities.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **User-Friendly Interface:** Intuitive and easy-to-navigate design for a seamless user experience.
+- **Chit Fund Participation:** Allows users to participate in chit funds, helping them easily join and contribute to various funds.
+- **Investment Tracking:** Provides a comprehensive view of users' chit fund investments, including payment history and upcoming dues.
+- **Notifications:** Sends timely reminders for upcoming payments and important chit fund events, ensuring users stay informed.
+- **Document Management:** Enables users to upload and manage relevant documents associated with their chit fund participation.
+- **Chat Functionality:** Facilitates communication among chit fund members through an in-app chat feature.
+- **Security:** Implements robust security measures to protect user data and ensure a secure chit fund management experience.
